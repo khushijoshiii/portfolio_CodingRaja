@@ -1,0 +1,94 @@
+*{padding:0;margin:0;box sizing:border-box;font familya:sans-serif;}
+
+body{
+
+	background-image:url("background.jpg");
+	background-size:cover;
+
+	 font-family:Arual,sans-serif;
+	 margin:0;
+	 padding:0;
+}
+/* Header*/
+header{
+	background-color:#333;
+	color:fff;
+	padding:20px;
+	text-align:centre;
+}
+
+h1{
+	margine:0;
+	font-size:32px;
+	font-family:'dancing script',cursive;
+	font-family:'lumanosimo',cursive;
+}
+
+p{
+	font-size:18px;
+	margin-top:10px;
+	font-family:'doncing script',cursive;
+	font-family:'lumanosimo',cursive;
+}
+h2{
+	margin:0;
+	font-size:32px;
+	font-family:'dancing script',cursive;
+	font-family:'lumanosimo',cursive;
+}
+
+/*about section*/
+#about img{
+	padding:10px 20px;
+	text align:centre;
+	max-width:200px;/*adjust the size as needed*/
+	border-radius:100%;/*if you want a rounded image*/
+	margina:0 auto;/*centre the image*/
+	display:flex;
+}
+
+/*skills section*/
+#skills ui{
+	background-color:#FFOOFF;
+	padding:25px 25px;
+	text aign:centre;
+	list-style-type:name;
+	display:flex;
+	justify:content:space-around;
+	padding:0px;
+	font-family:'dancing script',cursive;
+	font-family:'lumanosimo,cursive';
+}
+/*Projects  section*/
+.project img{
+
+	border-radius:box;
+	max-width:400px;/*adjust the size as needed*/
+	display:black;
+	margin:0auto;/*centre the image*/
+	font-family:'dancing script',cursive;
+	font-family:'lumanimo',cursive;
+}
+/*contact section*/
+#contact p{
+	background-color:#000080;
+	color:#fff;
+	paddinf:40px 20px;
+	text-align:centre;
+	margin:0;
+	font-family:'dancing script',cursive;
+	font-family:'lumanosimo',cursive;
+}
+
+ footer{
+ 	background-color:#f1f1f1;
+ 	padding:20px;
+ 	text-align:centre;
+ 	font family:'dancing script',cursive;
+ 	font-family:'lumanosimo',cursive;
+
+ }
+
+ footer p{
+ 	margin:0;
+ }
